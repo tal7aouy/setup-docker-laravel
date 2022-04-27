@@ -1,7 +1,10 @@
 
-# Setup Docker with Laravel 9
+# Setup Docker For Laravel 9
+
+Setup docker for laravel projects in an easy way, clone the repo and put it in your own project.
 
 ### Usage
+
 Clone repository
 
 ```sh
@@ -21,7 +24,6 @@ run
 ```sh
 docker-compose up -d
 ```
-
 
 Acess to a container
 ```sh
